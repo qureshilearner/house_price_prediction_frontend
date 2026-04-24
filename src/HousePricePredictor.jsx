@@ -1,7 +1,7 @@
 import { useState, useRef, useCallback } from "react";
 
 // const API = "http://localhost:8000"; // for local
-const API = "https://pythonbackendhousepriceprediction-production.up.railway.app/"; // Production
+const API = "https://pythonbackendhousepriceprediction-production.up.railway.app"; // Production
 
 const styles = `
   @import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Syne:wght@400;600;700&display=swap');
