@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/house_price_prediction_frontend/static/css/main.4efb37a3.css",
+    "main.js": "/house_price_prediction_frontend/static/js/main.c6e6e966.js",
+    "static/js/206.a10bf2f4.chunk.js": "/house_price_prediction_frontend/static/js/206.a10bf2f4.chunk.js",
+    "index.html": "/house_price_prediction_frontend/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.4efb37a3.css",
+    "static/js/main.c6e6e966.js"
+  ]
+}
