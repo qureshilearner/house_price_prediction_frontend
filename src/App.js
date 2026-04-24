@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          House Price Prediction App
         </a>
       </header>
     </div>
